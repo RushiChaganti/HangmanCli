@@ -19,11 +19,11 @@ Hangman CLI is a Python-based Hangman game that you can play directly from your 
    
         git clone https://github.com/RushiChaganti/HangmanCli
     
-  Navigate to the project directory.
+2.Navigate to the project directory.
        
        cd hangman-cli
 
-  Run the game.
+3.Run the game.
         
       python hangman.py
 
