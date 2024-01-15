@@ -16,15 +16,16 @@ Hangman CLI is a Python-based Hangman game that you can play directly from your 
 ## How to Play
 
 1. Clone the repository to your local machine.
+   
         git clone https://github.com/RushiChaganti/HangmanCli
     
-       Navigate to the project directory.
+  Navigate to the project directory.
        
        cd hangman-cli
 
-Run the game.
-
-    python hangman.py
+  Run the game.
+        
+      python hangman.py
 
 Follow the on-screen instructions to guess letters and play the game.
 
